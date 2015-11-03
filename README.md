@@ -2,7 +2,7 @@
 
 This is a very simple file tree to be used as a boilerplate when building Sinatra APIs.
 
-Heavily inspired by:
+Inspired by:
 [https://github.com/2get/sinatra-api-skeleton](https://github.com/2get/sinatra-api-skeleton)
 and
 [https://github.com/jayjzheng/sinatra-api-seed](https://github.com/jayjzheng/sinatra-api-seed)
